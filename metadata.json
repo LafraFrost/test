@@ -1,0 +1,7 @@
+{
+  "name": "GeoLocate IT",
+  "description": "Applicazione web responsive per il rilevamento della posizione geografica con gestione avanzata degli errori e permessi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
